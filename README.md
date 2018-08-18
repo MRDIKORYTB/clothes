@@ -8,6 +8,7 @@
 * NativeUI LUA : ```https://github.com/FrazzIe/NativeUILua```
 
 ## Contenu
+* Changement de masque en magasin spécialisé
 * Chargement du skin et de la tenue lors du spawn
 * Changement de tous les vêtements ainsi que des accessoires
 * Possibilités de sauvegarder jusqu'à 5 tenues
