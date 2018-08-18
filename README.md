@@ -16,9 +16,9 @@
 
 ## Installation 
 1. Télécharger le dépôt 
-2. Exécuter install.sql
+2. Exécuter ```install.sql```
 3. Copier/coller la ressource dans le dossier de ressource de votre serveur
-4. Ajouter ```start suchclothes``` à server.cfg
+4. Ajouter ```start clothes``` au ```server.cfg```
 
 ## En jeu
 Vous retrouverez 3 points dans chaque magasins correspondant :
