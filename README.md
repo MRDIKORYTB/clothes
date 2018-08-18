@@ -27,4 +27,4 @@ Vous retrouverez 3 points dans chaque magasins correspondant :
 * A la gestion de la garde robe
 
 ## Utilisation
-N'hésitez pas à jeter un coup d'oeil au code, il y a quelques instruction si jamais vous souhaitez utiliser le script avec un autre script.
+N'hésite pas à jeter un coup d'oeil au code, il y a quelques instructions si jamais tu veux utiliser le script avec un autre script.
