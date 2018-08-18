@@ -3,9 +3,9 @@
 <img src=https://i.imgur.com/F9GiplI.jpg>
 
 ## Prè requis
-* Essential Mode
-* Mysql-async
-* NativeUI LUA
+* Essential Mode : ```https://forum.fivem.net/t/release-essentialmode-base/3665```
+* Mysql-async : ```https://github.com/brouznouf/fivem-mysql-async```
+* NativeUI LUA : ```https://github.com/FrazzIe/NativeUILua```
 
 ## Contenu
 * Chargement du skin et de la tenue lors du spawn
